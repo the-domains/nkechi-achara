@@ -4,15 +4,22 @@
         <description><![CDATA[:)nkechi achara]]></description>
         <link>http://nkechi.click/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Nov 2016 16:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2016 16:22:22 GMT</lastBuildDate>
         <atom:link href="http://nkechi.click/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 13 Nov 2016 16:20:56 GMT</pubDate>
+        <pubDate>Sun, 13 Nov 2016 16:22:09 GMT</pubDate>
         <item>
             <title><![CDATA[How data has failed us]]></title>
             <description><![CDATA[<article><h1>How data has failed us</h1><h2>The rise of “uneducated” pundits, and the fall from grace of the “educated” elite.</h2><p>2016 has been an interesting year when it comes to the rise of more precise data analysis, with infinitely further reach, which has failed two political proceses which seemingly defied all “logical” thought to be the triumphant underdogs, shaping opur year and future.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56d41173f6cd58a511c289e71d33786c8ee1372b.jpg"></article>]]></description>
             <link>http://nkechi.click/how-data-has-failed-us/index.html</link>
             <guid isPermaLink="false">62c76471-bd54-4396-a7aa-691adee98d79</guid>
             <pubDate>Sun, 13 Nov 2016 12:26:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sometimes HBase is not the answer]]></title>
+            <description><![CDATA[<article><h1>Sometimes HBase is not the answer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45a7a6be-128c-4bef-b582-fcd21bd8c8e0.png"></article>]]></description>
+            <link>http://nkechi.click/sometimes-hbase-is-not-the-answer/index.html</link>
+            <guid isPermaLink="false">46f57f6b-c432-400e-bbf8-53ba8f123778</guid>
+            <pubDate>Sun, 13 Nov 2016 16:21:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Announcing Google Research, Europe]]></title>

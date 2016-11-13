@@ -1,0 +1,24 @@
+typography_spectrum: 0.4680839884094894
+color:
+  brandStrength: 0.5802313785534352
+  lightness: 0.6885370914824307
+  saturation: 0.217402137350291
+  rhythmicContrast: 0.7666076673194766
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+github: true
+layout_spectrum: 0.44650757778435946
+name: ':)nkechi achara'
+navigation:
+  - name: Github
+    url: 'https://github.com/nokeechia'
+    type: external
+  - name: LinkedIn
+    url: 'https://ch.linkedin.com/in/nkechiachara'
+    type: external
+content: []
+purpose: []

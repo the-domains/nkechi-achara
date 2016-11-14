@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-13T16:21:55.925Z'
+datePublished: '2016-11-14T09:39:03.486Z'
 sourcePath: _posts/2016-11-13-sometimes-hbase-is-not-the-answer.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-13T16:21:44.085Z'
+dateModified: '2016-11-14T09:39:03.008Z'
 title: Sometimes HBase is not the answer
 publisher: {}
 description: ''

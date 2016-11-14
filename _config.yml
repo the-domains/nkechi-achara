@@ -12,6 +12,8 @@ color:
     - '#9768D1'
 github: true
 layout_spectrum: 0.44650757778435946
+analytics:
+  google: UA-87359734-1
 name: ':)nkechi achara'
 navigation:
   - name: Github
